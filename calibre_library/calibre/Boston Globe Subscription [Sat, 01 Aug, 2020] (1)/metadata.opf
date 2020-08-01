@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fb8b1cea-cbfb-4f61-91ff-575546d97075</dc:identifier>
+        <dc:title>Boston Globe Subscription [Sat, 01 Aug, 2020]</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-01T01:00:14.323239+00:00</dc:date>
+        <dc:description>Articles in this issue:
+
+Office workers are increasingly being told to wait until January before they return
+
+At a time of racial unrest, Black workers’ union campaign becomes a battleground
+
+Herman Cain, former Republican presidential hopeful, dies at 74 of coronavirus
+
+John Lewis, a man of ‘unbreakable perseverance,’ laid to rest
+
+Michael Flynn case to be reheard by full federal appeals court in D.C.
+
+Analysis: Trump’s attack on election is about his fear of losing
+
+Justin Trudeau goes before parliament to face questions on charity scandal
+
+UK has Europe’s worst surge in deaths during pandemic, study says
+
+EDITORIAL: As Trump stokes suburban fears, Mass. lawmakers chart a better path
+
+OPINION: The ballpark is no place for the national anthem
+
+OPINION: The GOP’s moral trap
+
+Six employees at Holyoke Soldiers’ Home have retested positive for coronavirus
+
+Daylight in Vermont
+
+Special prosecutor to investigate alleged beating of man inside Lynn police station
+
+Trump’s ‘bogus’ suggestion to delay the election falls flat with Mass. leaders
+
+Resiliency Fund donor list a who’s who of big hitters in Boston business
+
+Brigham president resigns from Moderna board after conflict of interest questions raised
+
+State’s largest teachers union pushing for all classes to start at home in the fall
+
+After coronavirus spike, Nantucket makes restaurants that serve alcohol close by midnight
+
+Markey launches ad featuring AOC
+
+ANNEAR TO THE GROUND: Lawmaker’s amendment would have mandated training for his colleagues on muting their phones
+
+Boston City Council backs ZBA changes, now State House must approve
+
+‘Hundreds, and perhaps thousands’ of people have received unwanted seeds in the mail
+
+Maine restricts swimmers on some beaches, intensifies coastal patrols as state reacts to fatal shark attack
+
+Polar Beverages goes nationwide in blockbuster deal with Keurig Dr Pepper
+
+COMMENTARY: The economy cratered as never before in April. What comes next is hard to say
+
+TALKING POINTS: Dunkin’ to close 350 more stores
+
+UPS surges most since 1999 on delivery boom spurred by virus
+
+Wall Street mostly stumbles, but tech’s strength limits the losses
+
+Hackers are targeting the remote workers who keep your lights on
+
+Big Tech is worth even more the day after Congressional grilling
+
+Kodak pivots to drugs after abandoning photography, crypto
+
+Lee Teng-hui, Taiwan’s first democratically elected president, 97
+
+Oz Griebel, 71; twice ran for Conn. governor
+
+Red Sox notebook: Ryan Weber hopes to cultivate sinking feeling against Yankees
+
+michael silverman: In Lowell, loss of the Spinners this summer is nothing short of a calamity
+
+Celtics get their showdown with Bucks tonight, four and a half months later
+
+IN // Bruins vs. Blue Jackets
+
+NBA Notebook: Players, coaches open restart by kneeling during national anthem
+
+MUSIC: At Tanglewood, an 80-year-old ‘gem’ gets its premiere
+
+MOVIE REVIEW: In ‘Flannery,’ a writer this good is hard to find
+
+ADAM@HOME
+
+ARLO &amp; JANIS
+
+DILBERT
+
+DOONESBURY
+
+F MINUS
+
+FOR BETTER OR WORSE
+
+MONTY
+
+RHYMES WITH ORANGE
+
+ZITS
+
+Boston Globe with full articles for subscribers</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;calibre&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2020-08-01T01:00:20.643875+00:00" name="calibre:timestamp"/>
+        <meta content="Boston Globe Subscription [Sat, 01 Aug, 2020]" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
