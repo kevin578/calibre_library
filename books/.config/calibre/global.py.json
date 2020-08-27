@@ -26,7 +26,7 @@
   "installation_uuid": "4c2af7c1-b5ab-4ab8-84e7-7b08ce32bca7", 
   "isbndb_com_key": "", 
   "language": "en", 
-  "library_path": null, 
+  "library_path": "/config/calibre_library", 
   "limit_search_columns": false, 
   "limit_search_columns_to": [
     "title", 
@@ -40,7 +40,7 @@
   "migrated": false, 
   "network_timeout": 5, 
   "new_book_tags": [], 
-  "output_format": "EPUB", 
+  "output_format": "epub", 
   "read_file_metadata": true, 
   "saved_searches": {}, 
   "swap_author_names": false, 
