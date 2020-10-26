@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0a4a6115-2866-49b1-a21e-dd123389b7e7</dc:identifier>
+        <dc:title>Boston Globe Subscription [Mon, 03 Aug, 2020]</dc:title>
+        <dc:creator opf:file-as="calibre" opf:role="aut">calibre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.2.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-03T22:14:24.705030+00:00</dc:date>
+        <dc:description>Articles in this issue:
+
+Downtown’s surreal scenes in a pandemic summer
+
+Can state’s disease-tracking system catch simmering coronavirus clusters?
+
+White House steps back from Trump suggestion about delaying the election
+
+A weakened Tropical Storm Isaias lashes virus-hit Florida
+
+SpaceX capsule and NASA crew make 1st splashdown in 45 years
+
+Birx says US has entered a ‘new phase’ of pandemic as cases, deaths rise
+
+Scientists worry about political influence over vaccine project
+
+McEnany heckles the press. Is that all?
+
+US identifies some of the mysterious seeds mailed from China
+
+Relief package deal remains elusive as impasse over jobless benefits persists
+
+The protests: Portland protests see fewer clashes after federal agents stand down
+
+Marines halt search for 8 missing troops, all presumed dead
+
+8 dead and at least 19 wounded in weekend Chicago shootings
+
+Daughter of RFK seeks family heirloom from ‘Hickory Hill,’ but current owner won’t give it up
+
+Philippines virus cases top 100,000 in ‘losing battle’
+
+Mexico arrests Santa Rosa de Lima cartel chief ‘El Marro’
+
+As Genoa inaugurates new bridge, the feeling is bittersweet
+
+OPINION: A voyage of discovery about home
+
+OPINION: Who is making the mask rules?
+
+New pro-Kennedy super PAC set to launch ad barrage
+
+Imprisoned for nearly 50 years, man convicted of murder as a teen is free, seeks new trial
+
+Adrian Walker: Another Tsarnaev trial is the last thing Boston needs
+
+As pandemic continues, some colleges reverse course on reopening
+
+Minority riders cited more often for skipping fares on MBTA
+
+ANNEAR TO THE GROUND: A skydiver’s prosthetic leg fell off while jumping from a plane. Then someone found it in a soybean field
+
+At Logan Sunday, questions about enforcement of new COVID-19 measures
+
+‘Make Way for Ducklings’ sculptor turns her anger over pandemic into a new work
+
+Mass. tech firms say they’ll redouble efforts to hire Black and Latino workers
+
+NH startup is bringing diversity to the tech industry
+
+Pompeo says Trump will take broad action on TikTok and other Chinese software
+
+More Than 1,000 Companies Boycotted Facebook. Did It Work?
+
+TALKING POINTS: Stories you may have missed from the world of business
+
+7-Eleven Owner to Buy Marathon’s Speedway Unit for $21 Billion
+
+Anthony Terlato, who brought pinot grigio to the US, 86
+
+Connie Culp, first face transplant recipient in US, 57
+
+Alan Parker, 76, director of wide-ranging movies
+
+Reese Schonfeld, a founder of CNN and Food Network
+
+Wilford Brimley, homespun character actor, dies at 85
+
+Flyers 4, Bruins 1: Bruins sluggish in dropping round-robin opener to the Flyers
+
+KEVIN PAUL DUPONT | ON HOCKEY: Make no mistake, the Bruins need to clean up their play going forward
+
+YANKEES 9, RED SOX 7: Red Sox can’t stop Aaron Judge, Yankees in weekend sweep
+
+Red Sox notebook: Red Sox face some tredpidation over trip to Florida
+
+NBA Notebook: Heat star Jimmy Butler misses practice, teammate says he may be quarantining
+
+Peter Abraham | On baseball: NEED//PeteAbes early onball
+
+MLB Notebook: Mets’ Yoenis Cespedes opts out of 2020 season after failing to show up for game
+
+Sports Log: Eagles coach Doug Pederson tests positive for COVID-19
+
+Jets suffer costly losses in dropping Game 1 to Flames
+
+Golf roundup: Justin Thomas holds off Brooks Koepka to win FedEx-St. Jude Invitational, reclaims No. 1 ranking in golf
+
+needs onhoop
+
+MLB boxscore: Yankees 9, Red Sox 7
+
+NASCAR | Foxwoods Resort Casino 301: Brad Keselowski wins Foxwoods Resort Casino 301
+
+NHMS notebook: NHMS draws an exuberant, but socially distant, crowd to Sunday’s race
+
+Celtics 128, Trail Blazers 124: Observations after the Celtics blow big lead, then hang on to edge Trail Blazers
+
+Foxwoods Resort Casino 301 results
+
+NHL summary: Flyers 4, Bruins 1
+
+Patriots’ Devin McCourty unhappy NFL is moving up opt-out deadline
+
+NBA box score: Celtics 128, Trail Blazers 124
+
+ADAM@HOME
+
+ARLO &amp; JANIS
+
+DILBERT
+
+DOONESBURY
+
+F MINUS
+
+FOR BETTER OR WORSE
+
+MONTY
+
+RHYMES WITH ORANGE
+
+ZITS
+
+Boston Globe with full articles for subscribers</dc:description>
+        <dc:publisher>calibre</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:author_link_map" content="{&quot;calibre&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2020-10-08T01:40:40.322234+00:00"/>
+        <meta name="calibre:title_sort" content="Boston Globe Subscription [Mon, 03 Aug, 2020]"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
