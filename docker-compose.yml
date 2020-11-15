@@ -42,10 +42,10 @@ services:
     ports:
       - "8082:80"
     volumes:
-      - /opt/wallabag/images:/var/www/wallabag/web/assets/images
+      - ./wallabag/images:/var/www/wallabag/web/assets/images
   db:
     image: mariadb
     environment:
       - MYSQL_ROOT_PASSWORD=wallaroot
     volumes:
-      - /opt/wallabag/data:/var/lib/mysql
+      - ./wallabag/data:/var/lib/mysql

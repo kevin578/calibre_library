@@ -1,135 +1,135 @@
 {
   "book_details_splitter_horizontal_state": [
-    true,
+    true, 
     200
-  ],
+  ], 
   "book_list_pin_splitter_state": {
-    "__class__": "bytearray",
+    "__class__": "bytearray", 
     "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
-  },
+  }, 
   "cover_browser_splitter_vertical_state": [
-    false,
+    false, 
     300
-  ],
+  ], 
   "custom_colors_for_color_dialog": [
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
-    ],
+    ], 
     [
-      255,
-      255,
-      255,
+      255, 
+      255, 
+      255, 
       255
     ]
-  ],
-  "grid view visible": false,
+  ], 
+  "grid view visible": false, 
   "jobs view column layout3": {
-    "__class__": "bytearray",
+    "__class__": "bytearray", 
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfQAAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAA"
-  },
+  }, 
   "jobs_dialog_geometry": {
-    "__class__": "bytearray",
+    "__class__": "bytearray", 
     "__value__": "AdnQywADAAAAAAE5AAAAAgAAA7MAAAI4AAABOgAAABYAAAOyAAACMwAAAAAAAAAABQAAAAE6AAAAFgAAA7IAAAIz"
-  },
+  }, 
   "library_usage_stats": {
-    "/config/calibre_library": 25
-  },
-  "quick_start_guide_added": true,
-  "quickview visible": false,
+    "/config/calibre_library": 26
+  }, 
+  "quick_start_guide_added": true, 
+  "quickview visible": false, 
   "scheduler_dialog_geometry": {
-    "__class__": "bytearray",
+    "__class__": "bytearray", 
     "__value__": "AdnQywADAAAAAADlAAAAMwAABAYAAAIeAAAA5gAAAEcAAAQFAAACGQAAAAAAAAAABQAAAADmAAAARwAABAUAAAIZ"
-  },
-  "search bar visible": true,
+  }, 
+  "search bar visible": true, 
   "tag_browser_splitter_horizontal_state": [
-    true,
+    true, 
     200
   ]
 }

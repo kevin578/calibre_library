@@ -1,14 +1,15 @@
 {
-  "add books dialog dir": "/config/calibre_library/calibre/The Economist [Thu, 08 Oct 2020] (8)",
-  "choose library location": "/config/calibre_library/calibre",
+  "add books dialog dir": "/config/calibre_library/calibre/The Economist [Thu, 08 Oct 2020] (8)", 
+  "choose library location": "/config/calibre_library/calibre", 
   "notified-version-updates": {
-    "__class__": "set",
+    "__class__": "set", 
     "__value__": [
-      "5.3",
-      "5.1",
-      "5.2"
+      "5.4", 
+      "5.1", 
+      "5.2", 
+      "5.3"
     ]
-  },
-  "welcome_wizard_device": "default",
+  }, 
+  "welcome_wizard_device": "default", 
   "welcome_wizard_was_run": true
 }
