@@ -85,33 +85,37 @@ class BostonGlobeSubscription(BasicNewsRecipe):
         # soup = self.index_to_soup('file:///t/raw.html')
         section = None
         articles = []
-
-        for h in soup.findAll(['h2', 'h4']):
-            if h.name == 'h4':
-                if section and articles:
-                    feeds.append((section, articles))
-                section = self.tag_to_string(h)
-                articles = []
-                if section.lower().startswith('jump'):
-                    section = None
-                else:
-                    self.log(section)
-                continue
-            if not section:
-                continue
-            title = self.tag_to_string(h)
-            a = h.findParent('a', href=True)
+        iterator = 0
+        for a in soup.find_all("a", class_="card"):
             url = self.absolutize_url(a['href'])
-            desc = ''
-            q = h.findNextSibling('div', **classes('deck'))
-            if q is not None:
-                desc = self.tag_to_string(q)
-            articles.append({'title': title, 'url': url, 'description': desc})
-            self.log('\t', title, url)
-
+            title = a.findChild("h2").string
+            articles.append({'title': title, 'url': url})
+        feeds.append(("Actual Articles", articles))
+        #for h in soup.findAll(['h2', 'h4']):
+            # if h.name == 'h4':
+            #     if section and articles:
+            #         feeds.append((section, articles))
+            #     section = self.tag_to_string(h)
+            #     articles = []
+            #     if section.lower().startswith('jump'):
+            #         section = None
+            #     else:
+            #         self.log(section)
+            #     continue
+            # if not section:
+            #     continue
+            # title = self.tag_to_string(h)
+            # a = h.findParent('a', href=True)
+            # url = self.absolutize_url(a['href'])
+            # desc = ''
+            # q = h.findNextSibling('div', **classes('deck'))
+            # if q is not None:
+            #     desc = self.tag_to_string(q)
+            # articles.append({'title': title, 'url': url, 'description': desc})
+            # self.log('\t', title, url)
+        articles = []
         if section and articles:
             feeds.append((section, articles))
-        articles = []
         for title, slug in comics_to_fetch.items():
             articles.append({'title':title, 'url':'https://www.bostonglobe.com/games-comics/comics/{}/'.format(slug)})
         if articles:
